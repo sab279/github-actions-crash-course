@@ -1,8 +1,6 @@
 name: CI/CD for React Application
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
